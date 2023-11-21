@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0426887.css",
+    "main.js": "/static/js/main.c55ef7e2.js",
+    "static/js/787.daebbd09.chunk.js": "/static/js/787.daebbd09.chunk.js",
+    "static/media/AmazonEmber_W_RgIt.woff2": "/static/media/AmazonEmber_W_RgIt.30ce9ca15e9d91580ffa.woff2",
+    "static/media/AmazonEmber_W_Bd.woff2": "/static/media/AmazonEmber_W_Bd.08ec61cd70f6363df2b2.woff2",
+    "static/media/AmazonEmber_W_Rg.woff2": "/static/media/AmazonEmber_W_Rg.a15450d30181d6c2fa7d.woff2",
+    "static/media/AmazonEmber_W_BdIt.woff2": "/static/media/AmazonEmber_W_BdIt.4f8839ec65a9bd5f489e.woff2",
+    "static/media/AmazonEmber_W_SBdIt.woff2": "/static/media/AmazonEmber_W_SBdIt.9cf471a7f562235148b2.woff2",
+    "static/media/AmazonEmber_W_ThIt.woff2": "/static/media/AmazonEmber_W_ThIt.883b9617ceb39018c724.woff2",
+    "static/media/AmazonEmber_W_LtIt.woff2": "/static/media/AmazonEmber_W_LtIt.70eb610015efe9c4450d.woff2",
+    "static/media/AmazonEmber_W_SBd.woff2": "/static/media/AmazonEmber_W_SBd.30abd84620de800d5bea.woff2",
+    "static/media/AmazonEmber_W_Th.woff2": "/static/media/AmazonEmber_W_Th.a411bafbbfcb11b8b1a6.woff2",
+    "static/media/AmazonEmber_W_Lt.woff2": "/static/media/AmazonEmber_W_Lt.9565f255210fd067ab56.woff2",
+    "static/media/content.svg": "/static/media/content.393894d7e5d4a6f42305.svg",
+    "index.html": "/index.html",
+    "main.b0426887.css.map": "/static/css/main.b0426887.css.map",
+    "main.c55ef7e2.js.map": "/static/js/main.c55ef7e2.js.map",
+    "787.daebbd09.chunk.js.map": "/static/js/787.daebbd09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0426887.css",
+    "static/js/main.c55ef7e2.js"
+  ]
+}
